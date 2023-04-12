@@ -1,0 +1,43 @@
+﻿  Algorithms.cpp
+C:\Users\ali_b\Desktop\CHW-2\Algorithms\Algorithms.cpp(21,23): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\ali_b\Desktop\CHW-2\Algorithms\Algorithms.cpp(33,23): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\ali_b\Desktop\CHW-2\Algorithms\Algorithms.cpp(35,27): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\ali_b\Desktop\CHW-2\Algorithms\Algorithms.cpp(59,23): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\ali_b\Desktop\CHW-2\Algorithms\Algorithms.cpp(74,33): warning C4244: аргумент: преобразование "uint64_t" в "const unsigned int", возможна потеря данных
+C:\Users\ali_b\Desktop\CHW-2\Algorithms\Algorithms.cpp(74,61): warning C4244: аргумент: преобразование "uint64_t" в "const unsigned int", возможна потеря данных
+C:\Users\ali_b\Desktop\CHW-2\Algorithms\Algorithms.cpp(79,21): warning C4244: аргумент: преобразование "uint64_t" в "const unsigned int", возможна потеря данных
+C:\Users\ali_b\Desktop\CHW-2\Algorithms\Algorithms.cpp(79,49): warning C4244: аргумент: преобразование "uint64_t" в "const unsigned int", возможна потеря данных
+C:\Users\ali_b\Desktop\CHW-2\Algorithms\Algorithms.cpp(82,12): warning C4244: аргумент: преобразование "uint64_t" в "const unsigned int", возможна потеря данных
+C:\Users\ali_b\Desktop\CHW-2\Algorithms\Algorithms.cpp(86,35): warning C4244: аргумент: преобразование "uint64_t" в "const unsigned int", возможна потеря данных
+C:\Users\ali_b\Desktop\CHW-2\Algorithms\Algorithms.cpp(86,48): warning C4244: аргумент: преобразование "uint64_t" в "const unsigned int", возможна потеря данных
+C:\Users\ali_b\Desktop\CHW-2\Algorithms\Algorithms.cpp(86,62): warning C4244: аргумент: преобразование "uint64_t" в "const unsigned int", возможна потеря данных
+C:\Users\ali_b\Desktop\CHW-2\Algorithms\Algorithms.cpp(88,26): warning C4244: аргумент: преобразование "uint64_t" в "const unsigned int", возможна потеря данных
+C:\Users\ali_b\Desktop\CHW-2\Algorithms\Algorithms.cpp(91,21): warning C4244: аргумент: преобразование "uint64_t" в "const unsigned int", возможна потеря данных
+C:\Users\ali_b\Desktop\CHW-2\Algorithms\Algorithms.cpp(91,34): warning C4244: аргумент: преобразование "uint64_t" в "const unsigned int", возможна потеря данных
+C:\Users\ali_b\Desktop\CHW-2\Algorithms\Algorithms.cpp(91,48): warning C4244: аргумент: преобразование "uint64_t" в "const unsigned int", возможна потеря данных
+C:\Users\ali_b\Desktop\CHW-2\Algorithms\Algorithms.cpp(95,64): warning C4244: аргумент: преобразование "uint64_t" в "_Ty", возможна потеря данных
+          with
+          [
+              _Ty=int
+          ]
+C:\Users\ali_b\Desktop\CHW-2\Algorithms\Algorithms.cpp(111,23): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\ali_b\Desktop\CHW-2\Algorithms\Algorithms.cpp(126,33): warning C4244: аргумент: преобразование "uint64_t" в "const unsigned int", возможна потеря данных
+C:\Users\ali_b\Desktop\CHW-2\Algorithms\Algorithms.cpp(126,61): warning C4244: аргумент: преобразование "uint64_t" в "const unsigned int", возможна потеря данных
+C:\Users\ali_b\Desktop\CHW-2\Algorithms\Algorithms.cpp(131,21): warning C4244: аргумент: преобразование "uint64_t" в "const unsigned int", возможна потеря данных
+C:\Users\ali_b\Desktop\CHW-2\Algorithms\Algorithms.cpp(131,49): warning C4244: аргумент: преобразование "uint64_t" в "const unsigned int", возможна потеря данных
+C:\Users\ali_b\Desktop\CHW-2\Algorithms\Algorithms.cpp(134,12): warning C4244: аргумент: преобразование "uint64_t" в "const unsigned int", возможна потеря данных
+C:\Users\ali_b\Desktop\CHW-2\Algorithms\Algorithms.cpp(137,23): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\ali_b\Desktop\CHW-2\Algorithms\Algorithms.cpp(147,63): warning C4244: аргумент: преобразование "uint64_t" в "const unsigned int", возможна потеря данных
+C:\Users\ali_b\Desktop\CHW-2\Algorithms\Algorithms.cpp(147,76): warning C4244: аргумент: преобразование "uint64_t" в "const unsigned int", возможна потеря данных
+C:\Users\ali_b\Desktop\CHW-2\Algorithms\Algorithms.cpp(147,90): warning C4244: аргумент: преобразование "uint64_t" в "const unsigned int", возможна потеря данных
+C:\Users\ali_b\Desktop\CHW-2\Algorithms\Algorithms.cpp(149,27): warning C4244: аргумент: преобразование "uint64_t" в "const unsigned int", возможна потеря данных
+C:\Users\ali_b\Desktop\CHW-2\Algorithms\Algorithms.cpp(152,21): warning C4244: аргумент: преобразование "uint64_t" в "const unsigned int", возможна потеря данных
+C:\Users\ali_b\Desktop\CHW-2\Algorithms\Algorithms.cpp(152,34): warning C4244: аргумент: преобразование "uint64_t" в "const unsigned int", возможна потеря данных
+C:\Users\ali_b\Desktop\CHW-2\Algorithms\Algorithms.cpp(152,48): warning C4244: аргумент: преобразование "uint64_t" в "const unsigned int", возможна потеря данных
+C:\Users\ali_b\Desktop\CHW-2\Algorithms\Algorithms.cpp(156,64): warning C4244: аргумент: преобразование "uint64_t" в "_Ty", возможна потеря данных
+          with
+          [
+              _Ty=int
+          ]
+C:\Users\ali_b\Desktop\CHW-2\Algorithms\Algorithms.cpp(157,27): warning C4244: аргумент: преобразование "uint64_t" в "const unsigned int", возможна потеря данных
+  Algorithms.vcxproj -> C:\Users\ali_b\Desktop\CHW-2\Debug\Algorithms.exe
